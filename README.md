@@ -238,11 +238,6 @@ npm run test:watch
 
 # Run tests with coverage
 npm run test:coverage
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
 
 ```
 
